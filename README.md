@@ -1,6 +1,6 @@
 # 这里存放的都是我的技术笔记
 
-有我的调试记录和
+有我的调试记录和翻译文稿
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzI5MDgxXX0=
+eyJoaXN0b3J5IjpbLTE1NTc4NzA5MzNdfQ==
 -->
