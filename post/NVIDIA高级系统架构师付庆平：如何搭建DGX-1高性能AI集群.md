@@ -5,8 +5,6 @@
 
 _2018-04-11_ _创课_ [智东西](https://mp.weixin.qq.com/s?__biz=MzA4MTQ4NjQzMw==&mid=2652712741&idx=2&sn=7dfe40e9b6c11a4af43efe79cb539430&chksm=847db82bb30a313ddf31f93c686d73df8cf73335564e2610b4ce992bdfb68803319b61f4fd51&mpshare=1&scene=1&srcid=04113LixVXG4UC30iKflJ2YQ&pass_ticket=OaG2sZp4X%2BcApD9JJdF33yJV5pibg%2F%2FWQUKimfKeW5IwQgZMWDcEMfh42OZrNBEl##)
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/z7ZD1WagSLj1NlBFkg9gAO5nCeBqNmUAUImrfa3q8Kia39UpSoVfmloXz0yYYUjZzXYGmRjxPoMrjfHwNUtUlWQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1)
-
 去年5月，在2017年度GPU技术大会（GTC）上，英伟达发布了超级计算机NVIDIA DGX Station。作为针对人工智能开发的GPU工作站，NVIDIA DGX Station的计算能力相当于400颗CPU，而所需功耗不足其1/20，而计算机的尺寸恰好能够整齐地摆放在桌侧。数据科学家可以用它来进行深度神经网络训练、推理与高级分析等计算密集型人工智能探索。
 
 作为致力于将深度学习人工智能技术引入到智能医学诊断的系统开发商，图玛深维采用了DGX Station以及CUDA并行加速来进行神经网络模型的训练，并在此基础上开发出了σ-Discover Lung智能肺结节分析系统。σ-Discover Lung系统能够帮助医生自动检测出肺结节、自动分割病灶、自动测量参数，自动分析结节良恶性、提取影像组学信息、并对肺结节做出随访，大幅度减少结节筛查时间，减少读片工作量，提高结节的检出率，并且提供结节的良恶性定量分析，提高筛查的效果。σ-Discover Lung系统于去年8月发布。去年12月，图玛深维完成软银中国领投的2亿人民币B轮融资。
@@ -176,5 +174,5 @@ DGX拥有了非常优秀的硬件设计，同时也提供了一套整体的解�
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/z7ZD1WagSLj1NlBFkg9gAO5nCeBqNmUASiadErYwR87iaYd923j6MqkTakibIyNfo6d7FVz1CX9NCYiahNHp8yf3eQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODMwNzgyNV19
+eyJoaXN0b3J5IjpbLTY5NTYyMDQ1OV19
 -->
